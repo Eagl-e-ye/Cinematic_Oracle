@@ -42,3 +42,13 @@ The system handles a wide variety of complex requests:
 **Reference-based**: "Suggest movies like Interstellar".
 **Semantic**: "Space movies with AI".
 **Filtered**: "Hindi thriller movies like Andhadhun with high ratings".
+
+
+## Recommendation outputs: Prompts: 
+• suggest movies like Interstellar: Illuminate | Cobra Gypsies | Le mystère de Fatima 
+| Illuminate | Goddaddy | Unarmed Verses | The Kathy & Mo Show: Parallel | How Do 
+You Write a Joe Schermann | Jean Renoir: Part One - From La Belle Époque to World | 
+When I Find the Ocean  
+• Hindi thriller movies like Andhadhun with high ratings: Dassehra | State of 
+Siege: Temple Attack | The Bright Day | Supermen of Malegaon | Nero's Guests | One 
+Heart: The A.R. Rahman Concert Film | Dilwale Dulhania Le Jayenge | Reason 
